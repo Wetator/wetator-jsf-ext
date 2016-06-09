@@ -1,1 +1,7 @@
 * text=auto !eol
+/.checkstyle -text
+/.classpath -text
+/.project -text
+.settings/org.eclipse.jdt.core.prefs -text
+src/org/wetator/primefaces/backend/htmlunit/control/HtmlUnitPrimeFacesOption.java -text
+src/org/wetator/primefaces/backend/htmlunit/control/identifier/HtmlUnitPrimeFacesOptionInSelectIdentifier.java -text
