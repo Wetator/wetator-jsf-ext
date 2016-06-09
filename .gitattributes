@@ -5,3 +5,5 @@
 .settings/org.eclipse.jdt.core.prefs -text
 src/org/wetator/primefaces/backend/htmlunit/control/HtmlUnitPrimeFacesOption.java -text
 src/org/wetator/primefaces/backend/htmlunit/control/identifier/HtmlUnitPrimeFacesOptionInSelectIdentifier.java -text
+test/source/wetator/selectOneMenu.wett -text
+test/source/wetator/wetator.config -text
