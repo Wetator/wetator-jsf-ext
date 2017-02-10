@@ -3,6 +3,7 @@
 /.classpath -text
 /.project -text
 .settings/org.eclipse.jdt.core.prefs -text
+/build_jar.jardesc -text
 src/org/wetator/primefaces/backend/htmlunit/control/HtmlUnitPrimeFacesOption.java -text
 src/org/wetator/primefaces/backend/htmlunit/control/identifier/HtmlUnitPrimeFacesOptionInSelectIdentifier.java -text
 test/source/wetator/selectOneMenu.wett -text
